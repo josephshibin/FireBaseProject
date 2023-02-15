@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CODECRAFT</string>
+    <string name="image_contentDescription">image</string>
+    <string name="let_s_get_started_text">Let\'s Get started</string>
+    <string name="intro_text_description">Collaborate and Plan Together Across Multiple Devices Along with CodeCraft Digital transformation partner and IT consultancy.</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+
+    <!--TODO (Step 6: Add all the string values here.)-->
+    <!--START-->
+    <string name="sign_up_description_text">Enter your name, email id and password, to register with us.</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <!--END-->
+</resources>
